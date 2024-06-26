@@ -1,7 +1,7 @@
 <package>
 	<id>com.evercoretec.ifile</id>
-	<name></name>
-	<version>1.0.0-1</version>
+	<name>iFile</name>
+	<version>2.2.0-1</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>7.0</maxiOS>
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>This is iFile for iOS 7 and below..</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
