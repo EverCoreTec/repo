@@ -26,3 +26,18 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.ifile_2.2.0-1_iphoneos-arm
+Version: 2.2.0-1
+Section: Tweaks
+Maintainer: EverCoreTec <asherls1020@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/eu.heinelt.ifile_2.2.0-1_iphoneos-arm.deb
+Size: 9,735,990
+MD5sum: 86d959a90e6fbb97a0c98a135105e9de
+Description: This is iFile.
+Name: iFile
+Author: EverCoreTec <asherls1020@gmail.com>
+Depiction: https://evercoretec.github.io/repo/ifile
+
+
